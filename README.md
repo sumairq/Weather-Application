@@ -29,9 +29,18 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Pattern Weather] <a name="about-project"></a>
+# 📖 Pattern Weather <a name="about-project"></a>
 
 **Pattern Weather** is a weather application which allows you to search for weather conditions in virtually any city of the world. It allows the users to detect their current location and shows weather details based on that.
+
+
+
+Home View             |  Details View
+:-------------------------:|:-------------------------:
+![Screenshot_1697649157](https://github.com/sumairq/Weather-Application/assets/60618877/8ee85cf5-75b2-4ffb-914f-f7f372982881)  |  ![Screenshot_1697653065](https://github.com/sumairq/Weather-Application/assets/60618877/9043a642-cbc9-451b-90c4-17d7b7efbe67)
+
+
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -177,7 +186,7 @@ If you like this project please give it a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Open Weather API that , it enables developers of all skill levels to be able to explore their API without much dificulty.
+I would like to thank Open Weather API that makes it easy for developers of all skill levels to explore their API without much difficulty.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
