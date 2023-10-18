@@ -26,6 +26,7 @@ const FiveDayForecast: React.FC<FiveDayForecastProps> = ({ name }) => {
           icon={`https://openweathermap.org/img/wn/${item['weather'][0]['icon']}@2x.png`}
           title={parseDate(item)}
           value={`${(item['main']['temp'] - 273).toFixed(2)} C`}
+          key={index}
         />
       ))}
     </View>

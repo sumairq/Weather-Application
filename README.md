@@ -48,9 +48,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Home Page with Search]**
-- **[Details Page with Weather Details and 5 day Forecast]**
-- **[Weather Data based on user's current location]**
+- **Home Page with Search**
+- **Details Page with Weather Details and 5 day Forecast**
+- **Weather Data based on user's current location**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -58,7 +58,7 @@
 
 ## 📹 Live Demo <a name="video"></a>
 
-- [Live Demo Link](https://google.com)
+- [Loom Presentation Link](https://www.loom.com/share/76db3f0ff41143078ff35f43513151c0)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,5 +181,3 @@ I would like to thank Open Weather API that , it enables developers of all skill
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
